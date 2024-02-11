@@ -1,0 +1,31 @@
+/* Style for the container */
+body {
+    background-color: lightpink;
+}
+
+.container-fluid {
+    background-color: lightcyan;
+}
+
+
+/* Style for the form */
+.form-label {
+    font-weight: bold;
+}
+
+/* Style for the table */
+.table {
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Style for buttons */
+.btn {
+    margin-right: 5px;
+}
+
+/* Style for alerts */
+.alert {
+    margin-top: 20px;
+}
